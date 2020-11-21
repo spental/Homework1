@@ -23,20 +23,20 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-/* changed class to html element */
-header div {
+/* changed class to html element / changed div to nav */
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* changed class to html element */
-header div ul {
+/* changed class to html element / changed div to nav */
+header nav ul {
     list-style-type: none;
 }
-/* changed class to html element */
-header div ul li {
+/* changed class to html element / changed div to nav */
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
